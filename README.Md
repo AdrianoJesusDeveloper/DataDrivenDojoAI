@@ -362,7 +362,7 @@ Este projeto está licenciado sob a licença MIT.
 
 # 👨‍💻 Autor
 
-**Adriano Jesus**
+**Adriano de Jesus  da Costa **
 
 Criador do projeto **Data Driven Dojô AI**
 
