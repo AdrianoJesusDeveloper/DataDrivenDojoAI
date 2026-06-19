@@ -2,22 +2,17 @@
 
 ## v0.0.1
 
-Primeira estrutura criada.
+### Added
+
+- Estrutura inicial do projeto.
+- Estrutura da documentação.
+- Estrutura do branding.
+- Organização das pastas.
+- Configuração inicial do Git.
+- Diário de desenvolvimento.
 
 ---
 
-## v0.0.2
+Próxima versão
 
-Branding criado.
-
----
-
-## v0.0.3
-
-Sensei AI criado.
-
----
-
-## v0.1.0
-
-Primeira conversa funcionando.
+v0.0.2
